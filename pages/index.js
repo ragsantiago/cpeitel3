@@ -9,33 +9,31 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p> My name is Jovell Christian Q. Miranda. I am 21 years old.While  I don’t have a favorite or specific music, sometimes I prefer listening to OPM music because it makes me calm when I’m really stressed about doing something. Favorite Food: Much like seafood, Hobbies are more on playing games, watching movies and looking at things that I can have an interest in. 
-IT is my first choice. My parents supported me in choosing IT.
-I don’t know what I would be expecting in my future because time changes and anything can happen. I can still continue pursuing my IT more on databases.
-This subject is new to me because it is my first time taking the subject and some new Programming Languages. 
+        <p> My name is Santiago, Reanne; I’m 20 yrs old turning 21 this august. My hobbies are sports
+and online game. My favourite music are green tea and honey and songs by jeff bernat and
+Keenan Te. Favorite food is any kind of seafood and vegetables. And I am a bisexual, and
+introvert person, I like being alone most of the time I like to spend my time alone rather than
+being outside. Most of the time I am watching some movies or youtube or playing online
+games.
 </p>
-
-<p>Expectations on this subject: </p>
+        <h4>Three expectation in this subject:</h4>
 <ul>
-          <li>I expect the subject will interesting and useful in the future</li>
-          <li>I expect the subject will might be hard but fun</li>
-          <li>I expect the subject that will help us create useful and efficient projects on the future. </li>
+          <li>Improving problem-solving abilities and critical thinking skills.</li>
+          <li>Gaining new technical skills and knowledge related to the specific topic of the IT Elective 3 subject.</li>
+          <li>Learning about real-world applications of the concepts taught in the subject.</li>
         </ul>
-
-
-
-<p>10 Things that require Zero talent</p>
+        <h4>Put 10 things that requires 0 talent:</h4>
         <ol>
           <li>Being On Time</li>
-          <li>Making An Effort</li>
-          <li>Being High Energy</li>
-          <li>Having A Positive Attitude</li>
-          <li>Being Passionate</li>
-          <li>Using Good Body Language</li>
-          <li>Being Coachable</li>
-          <li>Doing A Little Extra</li>
+          <li>Effort</li>
+          <li>Body Language</li>
+          <li>Energy</li>
+          <li>Attitude</li>
           <li>Being Prepared</li>
-          <li>Having A Strong Work Ethic</li>
+          <li>Passion</li>
+          <li>Doing extra</li>
+          <li>Being Coachable</li>
+          <li>Work Ethic</li>
         </ol>
       </section>
     </Layout>
